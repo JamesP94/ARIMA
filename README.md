@@ -3,3 +3,5 @@ This analysis started with the often quoted misconception that the United States
 At this point, you may be asking yourself, "why should I care about the imports and exports of energy in the U.S.?" The idea of "energy independence" leads to many policy decisions at the national level, from leasing of public land for oil drilling to tariffs on energy importation. Predicting the future of trade balance in US energy can be a useful tool when making policy decisions moving forward.
 
 The results of the SARIMA model showed that just prior to 2010 energy imports in the US peaked and have since then stabilized around just more than 1.5 quadrillion BTU's. While at the same time, US energy exports have grown continually year over year since 2010, maxing out at over 3 quadrillion BTU's by 2027. Meaning, if the US continues on its current trajectory, it will be exporting twice as much energy as it imports by 2027, which is rather soon. 
+
+Please take a look at the code and charts created in the Jupyter Notebook file.
